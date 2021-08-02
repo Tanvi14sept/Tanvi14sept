@@ -27,7 +27,7 @@
 <br/><br/>
 
 <a href="https://github.com/Tanvi14sept">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=TanviGhanpathi&show_icons=true&theme=dracula&line_height=27" alt="Tanvi's github stats"/> </a> 
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tanvi Ghanpathi&show_icons=true&theme=dracula&line_height=27" alt="Tanvi's github stats"/> </a> 
  <br/>
  
  
