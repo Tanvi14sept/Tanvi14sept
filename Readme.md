@@ -1,7 +1,7 @@
 ### Hi there <img src="https://github.com/thomasbnt/thomasbnt/blob/me/assets/hi.gif" width="25px">
 
 
-- 🌱 I’m currently learning everything
+- 🌱 I’m currently learning everything and have keen interest in Graphic designing. 
 - 📫 How to reach me: [Tanvi Ghanpathi](https://www.linkedin.com/in/tanvi-ghanpathi-6a5018194/)
 - 😄 Pronouns: she/her 
 - 💬 Ask me about anything,happy to help
